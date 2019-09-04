@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/moham/source/repos/Boris_Online/Boris_Online/Content/GeonBit.UI/themes/editor/textures/button_default_md.xml</SourceFile>
+  <SourceTime>2019-01-21T01:12:44+01:00</SourceTime>
+  <DestFile>C:/Users/moham/source/repos/Boris_Online/Boris_Online/Content/bin/Windows/Content/GeonBit.UI/themes/editor/textures/button_default_md.xnb</DestFile>
+  <DestTime>2019-01-22T10:32:48.2910838+01:00</DestTime>
+  <Importer>XmlImporter</Importer>
+  <ImporterTime>2018-12-08T17:35:54+01:00</ImporterTime>
+  <Processor>PassThroughProcessor</Processor>
+  <ProcessorTime>2018-12-08T17:35:54+01:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
